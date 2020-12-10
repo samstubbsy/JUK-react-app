@@ -6,7 +6,6 @@ git branch -M main
 git remote add origin https://github.com/samstubbsy/JUK-react-app.git
 git push -u origin main
                 
-#
 function Square(props) {  
   return (
     <button 
@@ -152,7 +151,5 @@ function calculateWinner(squares) {
   }
   return null;
 }
-
-#
 
 git commit
